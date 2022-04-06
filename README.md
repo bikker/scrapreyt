@@ -5,7 +5,7 @@ The below steps will get you a copy of this repository up and running on your lo
 
 ### Clone the Repository
 ```
-git clone https://github.com/mahipalsingh26/Scrape-YouTube.git
+git clone https://github.com/bikker/scrapreyt.git
 ```
 
 ### Installation
